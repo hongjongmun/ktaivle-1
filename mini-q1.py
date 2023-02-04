@@ -1,4 +1,4 @@
-# 네 정수 입력받고 최댓값 구하기
+## 네 정수 입력받고 최댓값 구하기
 
 list_num = list(map(int, input('네 정수를 입력하세요 :').split()))
 num1 = list_num[0]   
